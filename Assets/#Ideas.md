@@ -3,7 +3,7 @@
 1. Protagonist is struggling with sanity, seeing delusions and
 unable to discern what is real when confronted with creepy manifestations etc
 
-2. Protagonist feels as tough they are being watched, becomes
+2. Protagonist feels as though they are being watched, becomes
 paranoid they are being hunted or stalked. Things go missing, things are
 misplaced, etc
 
@@ -22,5 +22,9 @@ player slowly uncovers clues indicating protagonist did something horrible (?)
 2. Doors to bedroom 
 
 ##### Scene Ideas
+###### Opening scene
+
+###### Rope Room (?)
+
 
 
